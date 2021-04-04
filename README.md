@@ -1,9 +1,6 @@
 <h1 align="center">Hi 👋, I'm Gabriel</h1>
 <h3 align="center">futuro desenvolvedor front-end, amante de Counter-Strike:Global offensive e atualmente escrevendo a uma velocidade de 75 palavras por minuto.</h3>
 
-- 📫 How to reach me **gabriel.nascimento@dcomp.ufs.br**
-
-- ⚡ Fun fact **jogador de Counter-Strike: Global offensive nas horas vagas**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">

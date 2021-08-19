@@ -1,5 +1,4 @@
 <h1 align="center">Hi 👋, I'm Gabriel</h1>
-<h3 align="center">futuro desenvolvedor front-end, amante de Counter-Strike:Global offensive e atualmente escrevendo a uma velocidade de 75 palavras por minuto.</h3>
 
 
 <h3 align="left">Connect with me:</h3>
